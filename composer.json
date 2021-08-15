@@ -1,0 +1,19 @@
+{
+    "name": "swe/hepsiburada",
+    "description": "Hepsiburada PHP Integration",
+    "type": "library",
+    "keywords": ["Hepsiburada", "E-commerce", "PHP API Integration"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yunus Yüksel",
+            "email": "yunusyuksel95@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Swe\\Hepsiburada\\": "Swe/Hepsiburada"
+        }
+    },
+    "minimum-stability": "stable"
+}
